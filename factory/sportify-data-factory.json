@@ -1,0 +1,9 @@
+{
+	"name": "sportify-data-factory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e26fce0b-2d4c-4952-8c95-d0ee484278ee",
+		"tenantId": "0bf5fcea-46f8-4a15-861d-961c1974ccf9"
+	}
+}
